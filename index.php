@@ -47,7 +47,7 @@
                     <div class="intro-message">
 
                         <h1 id="hdrDescription">趙佑威的網站</h1>
-
+                        <?php echo "123"?>
                         <hr class="intro-divider">
 
                         <h2 style="text-shadow:2px 2px 3px rgba(0,0,0,0.6);"> 與我聯絡：<a class="email-address" id="lnkEmailAddress" href="mailto:aaa000895@gmail.com">aaa000895@gmail.com</a></h2>
